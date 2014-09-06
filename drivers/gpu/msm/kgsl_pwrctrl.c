@@ -44,7 +44,7 @@
 #define INIT_UDELAY		200
 #define MAX_UDELAY		2000
 
-unsigned long internal_max = 450000000;
+unsigned long internal_max = 400000000;
 
 struct clk_pair {
 	const char *name;
